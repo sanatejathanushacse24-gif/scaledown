@@ -1,1 +1,1 @@
-restraunt reservation-bot
+restaurant reservation-bot
